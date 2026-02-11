@@ -1,4 +1,8 @@
 Momo le plus beau des bruxellois 
 Momo mon pays d'arabie (#aladdin)
+<<<<<<< HEAD
 
 On est en cours 
+=======
+la je suis avec maxendre 
+>>>>>>> cf9615d125af2f509614cc2b8a9b9a6014dc1cbc
